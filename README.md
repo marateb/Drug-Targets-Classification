@@ -4,8 +4,8 @@ The Sample MATLAB Code and dataset for “Systems Biology and Machine Learning A
 Please check the "ReadMe.pdf" file for an extended description of the "dataset" and "code". Thank you.
 For further information, please contact:
 
-Hamid Reza Marateb, PhD
-Senior Member, IEEE
+Hamid Reza Marateb, PhD;
+Senior Member, IEEE;
 Marie Curie Alumni Association (MCAA) member
 
 e-mail: marateb@gmail.com 
